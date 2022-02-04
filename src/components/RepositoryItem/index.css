@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  background-color: #f8f8ff;
+  border-radius: 15px;
+  padding: 10px;
+  width: 20vw;
+}
+.head-name {
+  color: #e73959;
+  font-size: 20px;
+}
+.logo-image {
+  height: 100px;
+  width: 100px;
+}
+.detail-container {
+  display: flex;
+  align-items: center;
+}
+.logos {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.des-head {
+  font-size: 12px;
+}
